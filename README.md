@@ -21,7 +21,8 @@ Este projeto implementa um sistema de verificação por **Captcha** para bots de
 ```bash
 git clone https://github.com/trinityszx/discord-captcha
 cd discord-captcha
-npm install
+npm install discord.js sequelize sqlite3 canvas winston
+
 ```
 
 ## ⚙️ Configuração
