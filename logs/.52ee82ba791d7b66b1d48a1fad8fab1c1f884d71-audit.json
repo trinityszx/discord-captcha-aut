@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\sahng\\OneDrive\\Documentos\\DinoBot\\logs\\.52ee82ba791d7b66b1d48a1fad8fab1c1f884d71-audit.json",
+    "files": [
+        {
+            "date": 1745799792744,
+            "name": "C:\\Users\\sahng\\OneDrive\\Documentos\\DinoBot\\logs\\error-2025-04-27.log",
+            "hash": "df916786610d013edc39953a35fb0229a3bc5b3a517eaec8d2b5ceb76afe3016"
+        }
+    ],
+    "hashType": "sha256"
+}

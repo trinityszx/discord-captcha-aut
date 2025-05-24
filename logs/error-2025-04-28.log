@@ -1,0 +1,44 @@
+2025-04-28 02:53:33 [ERROR] ❌ Erro ao executar comando captchasetup: Unknown interaction
+2025-04-28 02:53:33 [ERROR] ❌ Erro ao tentar editar a resposta após falha: The reply to this interaction has not been sent or deferred.
+2025-04-28 02:53:34 [ERROR] ❌ Erro ao atualizar captcha: TypeError: createCaptchaImage is not a function
+2025-04-28 03:40:46 [ERROR] ❌ Erro ao executar comando captchasetup: Cannot read properties of undefined (reading 'map')
+2025-04-28 03:40:46 [ERROR] ❌ Erro ao executar comando captchasetup: Cannot read properties of undefined (reading 'map')
+2025-04-28 03:40:47 [ERROR] ❌ Erro ao tentar editar a resposta após falha: Interaction has already been acknowledged.
+2025-04-28 16:36:10 [ERROR] ❌ Erro ao executar comando captchasetup: Error
+    at Database.<anonymous> (C:\Users\sahng\OneDrive\Documentos\DinoBot\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\sahng\OneDrive\Documentos\DinoBot\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\sahng\OneDrive\Documentos\DinoBot\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\sahng\OneDrive\Documentos\DinoBot\node_modules\sequelize\lib\sequelize.js:315:28
+    at async SQLiteQueryInterface.select (C:\Users\sahng\OneDrive\Documentos\DinoBot\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async CaptchaConfig.findAll (C:\Users\sahng\OneDrive\Documentos\DinoBot\node_modules\sequelize\lib\model.js:1140:21)
+    at async CaptchaConfig.findOne (C:\Users\sahng\OneDrive\Documentos\DinoBot\node_modules\sequelize\lib\model.js:1240:12)
+    at async CaptchaConfig.findOrCreate (C:\Users\sahng\OneDrive\Documentos\DinoBot\node_modules\sequelize\lib\model.js:1411:21)
+    at async Object.execute (C:\Users\sahng\OneDrive\Documentos\DinoBot\commands\captchasetup.js:66:33)
+2025-04-28 16:46:26 [ERROR] ❌ Erro ao executar comando captchasetup: Received one or more errors
+2025-04-28 16:52:00 [ERROR] ❌ Erro ao executar comando captchasetup: Received one or more errors
+2025-04-28 16:52:32 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 16:53:32 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 16:54:32 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 16:55:32 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 16:56:32 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 16:57:32 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 17:08:54 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 17:09:54 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 17:10:54 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 17:11:54 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 17:12:54 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 17:13:54 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 17:14:54 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 17:15:54 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 17:16:54 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 17:17:54 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 17:18:54 [ERROR] ❌ Erro ao atualizar captcha no servidor Dino Bots: enviarCaptcha is not defined
+2025-04-28 17:28:56 [ERROR] ❌ Erro ao atualizar captcha no servidor 1363900708126064642: Received one or more errors
+2025-04-28 17:36:20 [ERROR] ❌ Erro ao atualizar captcha no servidor 1363900708126064642: Received one or more errors
+2025-04-28 17:37:19 [ERROR] ❌ Erro ao atualizar captcha no servidor 1363900708126064642: Received one or more errors
+2025-04-28 17:39:19 [ERROR] ❌ Erro ao atualizar captcha no servidor 1363900708126064642: Received one or more errors
+2025-04-28 17:41:19 [ERROR] ❌ Erro ao atualizar captcha no servidor 1363900708126064642: Received one or more errors
+2025-04-28 17:43:19 [ERROR] ❌ Erro ao atualizar captcha no servidor 1363900708126064642: Received one or more errors
+2025-04-28 17:45:19 [ERROR] ❌ Erro ao atualizar captcha no servidor 1363900708126064642: Received one or more errors
+2025-04-28 17:48:20 [ERROR] ❌ Erro ao atualizar captcha no servidor 1363900708126064642: Received one or more errors

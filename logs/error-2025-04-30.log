@@ -1,0 +1,2 @@
+2025-04-30 08:11:03 [ERROR] ❌ Erro ao atualizar captcha: Error: getaddrinfo ENOTFOUND discord.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:108:26)

@@ -1,0 +1,6 @@
+2025-04-27 22:48:47 [ERROR] ❌ Erro em interactionCreate: Unknown interaction
+2025-04-27 23:05:14 [ERROR] ❌ Erro ao executar comando captchasetup: Unknown interaction
+2025-04-27 23:16:13 [ERROR] ❌ Erro ao executar comando captchasetup: Unknown interaction
+2025-04-27 23:21:04 [ERROR] ❌ Erro ao executar comando captchasetup: Unknown interaction
+2025-04-27 23:21:04 [ERROR] ❌ Erro ao tentar editar a resposta após falha: The reply to this interaction has not been sent or deferred.
+2025-04-27 23:21:04 [ERROR] ❌ Erro ao atualizar captcha: createCaptchaImage is not a function

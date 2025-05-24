@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\sahng\\OneDrive\\Documentos\\DinoBot\\logs\\.e1fe7c13ab85c797c903bc0f8603f5f76d7d7263-audit.json",
+    "files": [
+        {
+            "date": 1745803277563,
+            "name": "C:\\Users\\sahng\\OneDrive\\Documentos\\DinoBot\\logs\\error-2025-04-27.log",
+            "hash": "6bd83401b95f82c401dc2e8dc36e936c68980afa25f0f9af94ddfe6b66ac51a8"
+        },
+        {
+            "date": 1745819496637,
+            "name": "C:\\Users\\sahng\\OneDrive\\Documentos\\DinoBot\\logs\\error-2025-04-28.log",
+            "hash": "94dd9f8215dd6ea469e76c56582b4e4605b361de6277802bea6acfccf6bc381d"
+        },
+        {
+            "date": 1745925286027,
+            "name": "C:\\Users\\sahng\\OneDrive\\Documentos\\DinoBot\\logs\\error-2025-04-29.log",
+            "hash": "76a025d03e844742df6550c3daa595f206149bbdcfba3ce1f1e988ddd3ac5744"
+        },
+        {
+            "date": 1746011463224,
+            "name": "C:\\Users\\sahng\\OneDrive\\Documentos\\DinoBot\\logs\\error-2025-04-30.log",
+            "hash": "2bd62769dedcbb040fb08b739ea93ea64efc37d24ab5f7909e4a7436a5bf890d"
+        },
+        {
+            "date": 1746137307473,
+            "name": "C:\\Users\\sahng\\OneDrive\\Documentos\\DinoBot\\logs\\error-2025-05-01.log",
+            "hash": "58f95a09be12c8fdac4f2c955cc858379c37fbdcf660cf423f2b1c6e6e7b632b"
+        }
+    ],
+    "hashType": "sha256"
+}
